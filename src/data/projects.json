@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Music website",
+    "imageSrc": "projects/project.png",
+    "description": "This Is The Music Website I Designed For My College RGUKT Performing Arts Department.",
+    "skills": ["HTML", "CSS","Bootstrap","JavaScript","NodeJS","PHP","MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MounikaRangisetty/music"
+  },
+  {
+    "title": "WSS (Write, Save, Store) ",
+    "imageSrc": "projects/project.png",
+    "description": "A Personal Notes Application that allows users to write, save, and share their daily entries in a secure and user-friendly environment.",
+    "skills": ["HTML", "CSS","Bootstrap","JavaScript","PHP","MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MounikaRangisetty/music"
+  },
+  {
+    "title": "Genre Prediction",
+    "imageSrc": "projects/project.png",
+    "description": "A Machine Learning Model That Can Predict The Genre Of A Movie Based On Its Plot Summary Or Other Textual Information. I Used Support Vector Machine (SVM) Algorithm. ",
+    "skills": ["Machine Learning","Model Development","Data Processing"],
+    "demo": "file:///C:/Users/MOUNIKA/Documents/mouni_pages/protofile2/movieGenre.mp4",
+    "source": "https://github.com/MounikaRangisetty/moviegenerclassification"
+  },
+  {
+    "title": "Credit Cart Fraud Detection",
+    "imageSrc": "projects/project.png",
+    "description": "It Is A Model To Detect Fraudulent Credit Card Transactions. I Used Random Forest Algorithm.",
+    "skills": ["Machine Learning","Model Development","Data Processing"],
+    "demo": "file:///C:/Users/MOUNIKA/Documents/mouni_pages/protofile2/creditCard.ipynb%20-%20ML%20-%20Visual%20Studio%20Code%202023-09-28%2016-59-31.mp4",
+    "source": "https://github.com/MounikaRangisetty/CreditCardFraudDetection"
+  },
+  {
+    "title": "Spam SMS classifier",
+    "imageSrc": "projects/project.png",
+    "description": "An ML Model That Can Classify SMS Messages As Spam Or Legitimate I Used Logistic Regression Here.",
+    "skills": ["Machine Learning","Model Development","Data Processing"],
+    "demo": "file:///C:/Users/MOUNIKA/Documents/mouni_pages/protofile2/spamSMS.ipynb%20-%20ML%20-%20Visual%20Studio%20Code%202023-09-29%2020-53-39.mp4",
+    "source": "https://github.com/MounikaRangisetty/SpamSMSdetection"
+  }
+]
