@@ -1,12 +1,23 @@
 version: 0.2
+
 phases:
   install:
+    runtime-versions:
+      nodejs: 18
     commands:
+      - echo Installing NPM dependencies...
       - npm install
+
   build:
     commands:
+      - echo Building the application...
       - npm run build
+
+  post_build:
+    commands:
+      - echo Build completed on `date`
+
 artifacts:
+  base-directory: 'dist'  # Ensure this matches the directory where your build output is located
   files:
-    - '**/*'
-  base-directory: build
+    - '**/*'  # Include all files in the base directory
